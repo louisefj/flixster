@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+See flixsterdemo.gif for the app walkthrough - trouble when providing url. 
 
 <img src="https://media.giphy.com/media/3rXxY8gLdz2lwzMZcr/giphy.gif" width=250><br>
 
